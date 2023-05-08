@@ -6,7 +6,7 @@ using System.Text;
 
 namespace MonkeyFinder.ViewModel;
 
-[INotifyPropertyChanged]
+
 public partial class BaseViewModel : ObservableObject
 {
     [ObservableProperty]
