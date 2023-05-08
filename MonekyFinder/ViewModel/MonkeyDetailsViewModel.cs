@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using ViewModel;
 
-namespace ViewModel
+namespace MonkeyFinder.ViewModel
 {
-    internal class MonkeyDetailsViewModel
+    public partial class MonkeyDetailsViewModel : BaseViewModel
     {
     }
 }

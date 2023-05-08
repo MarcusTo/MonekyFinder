@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ViewModel
 {
-    internal class BaseViewModel
+    public class BaseViewModel
     {
     }
 }
